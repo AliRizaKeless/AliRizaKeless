@@ -5,7 +5,7 @@
 ### Software Developer | Backend • Cloud • AI
 
 <p>
-Building software with Java, Python, modern web technologies and cloud platforms.
+Building backend, cloud and AI-powered applications with modern technologies.
 </p>
 
 <p>
