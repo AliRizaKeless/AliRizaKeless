@@ -35,39 +35,11 @@ const ali = {
   role: "Software Developer",
   location: "Lillestrøm / Oslo, Norway",
 
-  focus: [
-    "Backend Development",
-    "Cloud Applications",
-    "AI Integration"
-  ],
+  focus:    ["Backend Development", "Cloud", "AI Integration"],
+  backend:  ["Java", "Spring Boot", "Python", "FastAPI"],
+  frontend: ["React", "JavaScript"],
+  database: ["PostgreSQL", "MySQL"],
+  cloud:    ["Azure", "Docker", "Terraform", "GitHub Actions"],
 
-  backend: [
-    "Java",
-    "Spring Boot",
-    "Python",
-    "FastAPI"
-  ],
-
-  frontend: [
-    "React",
-    "JavaScript"
-  ],
-
-  cloud: [
-    "Azure",
-    "Docker",
-    "Terraform",
-    "GitHub Actions"
-  ],
-
-  databases: [
-    "PostgreSQL",
-    "MySQL"
-  ],
-
-  currentlyExploring: [
-    "Kotlin",
-    "C# / .NET",
-    "TypeScript"
-  ]
+  exploring: ["Kotlin", "C# / .NET", "TypeScript"]
 };
