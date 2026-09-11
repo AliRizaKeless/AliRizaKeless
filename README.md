@@ -1,36 +1,73 @@
-# Hi 👋 I'm Ali Riza Keles
+<div align="center">
 
-### Software Developer based in Norway 🇳🇴
+# Hi 👋, I'm Ali Riza Keles
 
-I enjoy building software across backend, cloud, AI and modern web technologies.
-My main focus is developing reliable applications, learning new technologies
-and turning ideas into working solutions.
+### Software Developer | Backend • Cloud • AI
+
+<p>
+Building software with Java, Python, modern web technologies and cloud platforms.
+</p>
+
+<p>
+  <img src="https://skillicons.dev/icons?i=java,spring,python,react,ts,dotnet,azure,docker,postgres,git" />
+</p>
+
+<p>
+  <a href="https://www.linkedin.com/in/ali-riza-keles-b096861a1">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
+  </a>
+  <a href="mailto:alirizakeles66@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-informational?style=for-the-badge&logo=gmail" />
+  </a>
+  <a href="https://github.com/AliRizaKeless">
+    <img src="https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github" />
+  </a>
+</p>
+
+</div>
+
+---
 
 ## 👨‍💻 About Me
 
-- 💻 Software Developer with a background in Computer Engineering
-- ⚙️ Interested in backend development and modern software architecture
-- ☁️ Building and deploying applications with cloud technologies
-- 🤖 Exploring AI integrations and AI-assisted software development
-- 🌱 Currently expanding my skills in Kotlin, .NET and TypeScript
-- 📍 Based in Lillestrøm / Oslo, Norway
+```javascript
+const ali = {
+  role: "Software Developer",
+  location: "Lillestrøm / Oslo, Norway",
 
-## 🛠️ Tech Stack
+  focus: [
+    "Backend Development",
+    "Cloud Applications",
+    "AI Integration"
+  ],
 
-### Backend
-Java • Spring Boot • Python • FastAPI • REST APIs
+  backend: [
+    "Java",
+    "Spring Boot",
+    "Python",
+    "FastAPI"
+  ],
 
-### Frontend
-React • JavaScript • HTML • CSS
+  frontend: [
+    "React",
+    "JavaScript"
+  ],
 
-### Cloud & DevOps
-Azure • Docker • Terraform • GitHub Actions • CI/CD
+  cloud: [
+    "Azure",
+    "Docker",
+    "Terraform",
+    "GitHub Actions"
+  ],
 
-### Databases
-PostgreSQL • MySQL • SQL
+  databases: [
+    "PostgreSQL",
+    "MySQL"
+  ],
 
-### AI
-Azure OpenAI • OpenAI API • RAG
-
-### Currently Exploring
-Kotlin • C# / .NET • TypeScript
+  currentlyExploring: [
+    "Kotlin",
+    "C# / .NET",
+    "TypeScript"
+  ]
+};
