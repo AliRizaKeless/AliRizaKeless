@@ -84,3 +84,14 @@ const ali = {
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 
 ---
+---
+
+## 🚀 Featured Projects
+
+| Project | Description | Tech |
+|---|---|---|
+| [**AI Job Matcher**](https://github.com/AliRizaKeless/ai-job-matcher-java) | AI-powered job matching platform built as a Java backend application. | Java · Spring Boot · PostgreSQL · Docker · Azure OpenAI |
+| [**Azure AI Agent Platform**](https://github.com/AliRizaKeless/azure-ai-agent-platform) | AI agent backend platform with RAG and cloud infrastructure. | Python · FastAPI · OpenAI · RAG · Docker · Terraform · Azure |
+| [**Norway Data Pipeline**](https://github.com/AliRizaKeless/norway-data-pipeline) | Cloud-native ETL pipeline for Statistics Norway data. | Python · Azure · Terraform · Docker · CI/CD |
+
+---
