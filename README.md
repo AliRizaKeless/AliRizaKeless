@@ -43,6 +43,7 @@ const ali = {
 
   exploring: ["Kotlin", "C# / .NET", "TypeScript"]
 };
+```
 
 ---
 
