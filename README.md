@@ -14,14 +14,15 @@ Building backend, cloud and AI-powered applications with modern technologies.
 
 <p>
   <a href="https://www.linkedin.com/in/ali-riza-keles-b096861a1">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
+    <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:alirizakeles66@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-informational?style=for-the-badge&logo=gmail" />
+    <img src="https://img.shields.io/badge/E--MAIL-1F3A5F?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://github.com/AliRizaKeless">
-    <img src="https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github" />
+    <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
+  <img src="https://img.shields.io/badge/OSLO%2C%20NORWAY-555555?style=for-the-badge&logo=googlemaps&logoColor=white" />
 </p>
 
 </div>
